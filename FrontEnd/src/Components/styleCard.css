@@ -1,0 +1,40 @@
+/* .contenedor {
+    height: 331px;
+    width: 340px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+ */
+.title {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    min-height: 130px;
+    height: auto;
+    text-align: center;
+}
+
+h2 {
+    margin-top: 5px;
+    ;
+}
+
+.title>input {
+    height: 30px;
+    width: 30px;
+    margin: 10px;
+    margin-left: -20px;
+}
+
+button {
+    margin: 10px;
+}
+
+.state-text{
+    text-decoration: line-through;
+}
+ 
